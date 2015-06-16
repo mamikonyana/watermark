@@ -9,7 +9,7 @@ if __package__ == '':
     path = os.path.dirname(os.path.dirname(__file__))
     sys.path.insert(0, path)
 
-import watermark  # noqa
+import water # noqa
 
 if __name__ == '__main__':
-  watermark.main()
+  water.main()
