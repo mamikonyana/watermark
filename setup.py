@@ -6,7 +6,7 @@ setup(
   packages=['water'],
   description='Apply watermarks to images',
   classifiers=[
-    'Development Status :: 2 - Pre-alpha',
+    'Development Status :: 2 - Pre-Alpha',
     'Programming Language :: Python :: 3',
     'Programming Language :: Python :: 3.4'
   ],
